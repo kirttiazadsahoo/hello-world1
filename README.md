@@ -1,2 +1,6 @@
 # hello-world1
-just another repository
+
+hi humans!
+
+I am kirtti azad sahoo
+i just learn something about github.
